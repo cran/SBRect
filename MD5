@@ -1,0 +1,8 @@
+0bc444c6f4308e491225b8a70cbf1d03 *DESCRIPTION
+ed90176f4ff0c98035216235e4662062 *NAMESPACE
+9e18ef1476437701e1f0d2f03a6de582 *R/computeBreakPoints.R
+00d90c0b4f740ca487cbac6800176796 *R/computeRectangles.R
+9dd9b3a797b9efc7493dc95a533b77b9 *R/onLoad.R
+829dc673c6c9d4fed4c5cc23ce6b0732 *inst/java/sbrect_jr.jar
+cb1733695625c48c57711fd3b929fb7f *man/computeBreakPoints.Rd
+38339fd6d9760f110d654f20653e5c0e *man/computeRectangels.Rd
